@@ -1,5 +1,5 @@
-# Spam Detector
-###### *This was a university project, copying code not allowed*
+# Naive Bayesian Spam Classifier
+###### *This was an university project, copying code line by line is highly not recommended*
 
 
 ## Developers:
